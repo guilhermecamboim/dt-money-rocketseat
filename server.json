@@ -23,6 +23,22 @@
       "category": "Lazer",
       "price": 35,
       "createdAt": "2022-09-20T14:50:15.679Z"
+    },
+    {
+      "description": "Venda",
+      "price": 100,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-09-23T15:39:02.643Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel de frango",
+      "price": 7,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-09-23T16:03:27.250Z",
+      "id": 5
     }
   ]
 }
